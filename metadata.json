@@ -1,0 +1,6 @@
+{
+  "name": "DEV HQ",
+  "description": "A personal development operating workspace combining a browser-style interface, project management, AI tools, GitHub access, and productivity features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

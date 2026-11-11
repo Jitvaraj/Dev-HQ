@@ -1,0 +1,16 @@
+{
+  "short_name": "DEV HQ",
+  "name": "DEV HQ — Build. Develop. Innovate.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#070b14",
+  "theme_color": "#070b14",
+  "display": "standalone",
+  "orientation": "any"
+}
